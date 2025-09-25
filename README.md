@@ -29,7 +29,7 @@ product_category_name_translation.csv
 
 ## ⚙️ Environment & Setup
 
-### Google Colab (recommended)
+### Google Colab
 ```python
 %%capture
 !pip install -U pip setuptools wheel cython
