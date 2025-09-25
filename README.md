@@ -58,7 +58,7 @@ warnings.filterwarnings("ignore", category=FutureWarning, message=r".*Series.__g
 
 ---
 
-## 🗂️ Quick Start (minimal)
+## 🗂️ Quick Start 
 ```python
 import os, pandas as pd, numpy as np
 
@@ -103,7 +103,7 @@ product_category  = load_csv("product_category_name_translation.csv")
 
 ---
 
-## 🧪 Hypothesis Tests (examples)
+## 🧪 Hypothesis Tests 
 - **Delays → Reviews:** Both OLS and Mann–Whitney show significant negative effect of delay on review scores.  
 - **Delays by State:** Significant differences across states, but **small effect size**.  
 - **Weekday vs Weekend Sales:** Distributions differ; prioritize weekdays but test weekend promos.
